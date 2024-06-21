@@ -1,0 +1,7 @@
+:root{
+    --color-bg: hsl(257, 40%, 49%);
+    --color-hover: hsl(300, 69%, 71%);
+
+    --font-highlight: "Poppins", sans-serif;
+    --font-paragraph: "Open Sans", sans-serif;
+}
