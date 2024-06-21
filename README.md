@@ -6,7 +6,6 @@ O Projeto Huddle é um desafio gratuito para desenvolvedores web, disponibilizad
 
 ![Static Badge](https://img.shields.io/badge/languages-2-green?style=plastic)
 ![Static Badge](https://img.shields.io/badge/last_commit-june_2024-red?style=plastic)
-![Static Badge](https://img.shields.io/badge/license-MIT-blue?style=plastic)
 
 ## Tabela de Conteúdos
 
@@ -15,7 +14,6 @@ O Projeto Huddle é um desafio gratuito para desenvolvedores web, disponibilizad
    * [Status do projeto](#status-do-projeto)
    * [Passos para rodar o projeto](#passos-para-rodar)
    * [Tecnologias/Linguagens](#tecnologias-linguagens)
-   * [Licença](#licenca)
    * [Autor](#autor)
 <!--te-->
 
@@ -27,8 +25,8 @@ A landing page é um dos mais diversos desafios propostos no site Front-End Ment
 
 No desafio em questão, o site disponibiliza vários arquivos, dentre eles os layouts para as versões desktop e mobile: 
 
-![Mobile](image-1.png)
-![Desktop](image.png)
+![Mobile](./src/design/mobile-design.jpg)
+![Desktop](./src/design/desktop-design.jpg)
 
 O objetivo é recriar com a maior fidelidade possível a landing page acima, utilizando técnicas de estruturação, estilização e responsividade.
 
@@ -48,10 +46,6 @@ As seguintes tecnologias/linguagens foram utilizadas na construção do projeto:
 
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-## Licença
-
-Este projeto possui a licença MIT. Para visualizá-la, clique [aqui](AQUI ENTRA O LINK DO ARQUIVO LICENSE.txt)
 
 ## Autor
 
