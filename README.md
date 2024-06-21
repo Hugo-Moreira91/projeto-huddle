@@ -38,7 +38,7 @@ O Projeto Huddle está finalizado.
 
 Antes de começar, tenha instalado na sua máquina o navegador de sua preferência.
 
-No navegador, acesse o [projeto](AQUI ENTRA O LINK DO PROJETO VIA GITHUB PAGES) via Github Pages.
+No navegador, acesse o [projeto](https://hugo-moreira91.github.io/projeto-huddle/) via Github Pages.
 
 ## Tecnologias/Linguagens
 
